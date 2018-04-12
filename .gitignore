@@ -1,0 +1,8 @@
+node_modules/
+
+**/.DS_Store
+
+
+# Contains sensitive information. Contact Halcy for these files.
+dev-settings.json
+settings.json
